@@ -1,0 +1,313 @@
+{
+  "categories": [
+    {
+      "id": "lower-body",
+      "name": "Lower Body",
+      "exercises": [
+        {
+          "id": "knee-bends",
+          "name": "Knee Bends",
+          "defaultSets": 3,
+          "defaultReps": 10,
+          "defaultHoldTime": 5
+        },
+        {
+          "id": "forward-lunge",
+          "name": "Forward Lunge",
+          "defaultSets": 3,
+          "defaultReps": 10,
+          "defaultHoldTime": 0
+        }
+      ]
+    },
+    {
+      "id": "upper-body",
+      "name": "Upper Body",
+      "exercises": [
+        {
+          "id": "shoulder-press",
+          "name": "Shoulder Press",
+          "defaultSets": 3,
+          "defaultReps": 12,
+          "defaultHoldTime": 0
+        }
+      ]
+    },
+    {
+      "id": "core",
+      "name": "Core",
+      "exercises": [
+        {
+          "id": "plank",
+          "name": "Plank",
+          "defaultSets": 3,
+          "defaultReps": 1,
+          "defaultHoldTime": 30
+        }
+      ]
+    }
+  ],
+  "savedCombos": [
+    {
+      "id": "combo-1730194737122",
+      "name": "Test Combo",
+      "exercises": [],
+      "frequency": 1,
+      "breakInterval": 30,
+      "selectedDays": [
+        "M",
+        "W",
+        "F"
+      ],
+      "therapistNotes": "Test notes",
+      "createdAt": "2024-10-29T09:38:57.122Z"
+    },
+    {
+      "id": "combo-1730196146740",
+      "name": "Test Combo",
+      "exercises": [],
+      "frequency": 1,
+      "breakInterval": 30,
+      "selectedDays": [
+        "M",
+        "W",
+        "F"
+      ],
+      "therapistNotes": "Test notes",
+      "createdAt": "2024-10-29T10:02:26.740Z"
+    },
+    {
+      "id": "combo-1730197460064",
+      "name": "knee rehab programme",
+      "exercises": [],
+      "frequency": 1,
+      "breakInterval": 30,
+      "selectedDays": [],
+      "therapistNotes": "",
+      "createdAt": "2024-10-29T10:24:20.064Z"
+    },
+    {
+      "id": "combo-1730197491092",
+      "name": "knee rehab programmie",
+      "exercises": [],
+      "frequency": 1,
+      "breakInterval": 30,
+      "selectedDays": [],
+      "therapistNotes": "",
+      "createdAt": "2024-10-29T10:24:51.092Z"
+    },
+    {
+      "id": "combo-1730198539791",
+      "name": "knee rehab programme",
+      "exercises": [
+        {
+          "id": "exercise-1730198535971",
+          "name": "Knee Bends",
+          "sets": 3,
+          "reps": 10,
+          "holdTime": 5,
+          "weight": 0,
+          "side": "both"
+        },
+        {
+          "id": "exercise-1730198536404",
+          "name": "Forward Lunge",
+          "sets": 3,
+          "reps": 10,
+          "holdTime": 0,
+          "weight": 0,
+          "side": "both"
+        }
+      ],
+      "frequency": 1,
+      "breakInterval": 30,
+      "selectedDays": [
+        "T",
+        "W",
+        "TH",
+        "F"
+      ],
+      "therapistNotes": "dsfsdf",
+      "createdAt": "2024-10-29T10:42:19.791Z"
+    },
+    {
+      "id": "combo-1730198582200",
+      "name": "knee rehab fuck please work",
+      "exercises": [
+        {
+          "id": "exercise-1730198574853",
+          "name": "Shoulder Press",
+          "sets": 3,
+          "reps": 12,
+          "holdTime": 0,
+          "weight": 0,
+          "side": "both"
+        }
+      ],
+      "frequency": 1,
+      "breakInterval": 30,
+      "selectedDays": [
+        "TH",
+        "W",
+        "T"
+      ],
+      "therapistNotes": "sdfsdfsdf",
+      "createdAt": "2024-10-29T10:43:02.200Z"
+    },
+    {
+      "id": "combo-1730198892352",
+      "name": "work hoja cutie",
+      "exercises": [
+        {
+          "id": "exercise-1730198881419",
+          "name": "Shoulder Press",
+          "sets": 3,
+          "reps": 12,
+          "holdTime": 0,
+          "weight": 0,
+          "side": "both"
+        },
+        {
+          "id": "exercise-1730198882867",
+          "name": "Shoulder Press",
+          "sets": 3,
+          "reps": 12,
+          "holdTime": 0,
+          "weight": 0,
+          "side": "both"
+        }
+      ],
+      "frequency": 1,
+      "breakInterval": 30,
+      "selectedDays": [
+        "T",
+        "W",
+        "TH",
+        "F",
+        "Sa"
+      ],
+      "therapistNotes": "it will work",
+      "createdAt": "2024-10-29T10:48:12.352Z"
+    },
+    {
+      "id": "combo-1730203696880",
+      "name": "kbnee",
+      "exercises": [
+        {
+          "id": "exercise-1730203672760",
+          "name": "Forward Lunge",
+          "sets": 3,
+          "reps": 10,
+          "holdTime": 0,
+          "weight": 0,
+          "side": "both"
+        },
+        {
+          "id": "exercise-1730203672096",
+          "name": "Knee Bends",
+          "sets": 3,
+          "reps": 10,
+          "holdTime": 5,
+          "weight": 0,
+          "side": "both"
+        },
+        {
+          "id": "exercise-1730203674368",
+          "name": "Knee Bends",
+          "sets": 3,
+          "reps": 10,
+          "holdTime": 5,
+          "weight": 0,
+          "side": "both"
+        },
+        {
+          "id": "exercise-1730203679168",
+          "name": "Knee Bends",
+          "sets": 3,
+          "reps": 10,
+          "holdTime": 5,
+          "weight": 0,
+          "side": "both"
+        },
+        {
+          "id": "exercise-1730203683185",
+          "name": "Knee Bends",
+          "sets": 3,
+          "reps": 10,
+          "holdTime": 5,
+          "weight": 0,
+          "side": "both"
+        },
+        {
+          "id": "exercise-1730203685872",
+          "name": "Forward Lunge",
+          "sets": 3,
+          "reps": 10,
+          "holdTime": 0,
+          "weight": 0,
+          "side": "both"
+        }
+      ],
+      "frequency": 1,
+      "breakInterval": 31,
+      "selectedDays": [
+        "M",
+        "T",
+        "W",
+        "TH",
+        "F"
+      ],
+      "therapistNotes": "fuck yeah ",
+      "createdAt": "2024-10-29T12:08:16.880Z"
+    },
+    {
+      "id": "combo-1730224623252",
+      "name": "kbnee",
+      "exercises": [
+        {
+          "id": "exercise-1730224427826",
+          "name": "Forward Lunge",
+          "sets": 3,
+          "reps": 10,
+          "holdTime": 0,
+          "weight": 0,
+          "side": "both",
+          "stage": "Stage 1",
+          "equipment": "dumbbell"
+        },
+        {
+          "id": "exercise-1730224439514",
+          "name": "Knee Bends",
+          "sets": 3,
+          "reps": 10,
+          "holdTime": 5,
+          "weight": 0,
+          "side": "right",
+          "stage": "Stage 1",
+          "equipment": "bodyweight"
+        },
+        {
+          "id": "exercise-1730224601200",
+          "name": "Forward Lunge",
+          "sets": 3,
+          "reps": 10,
+          "holdTime": 0,
+          "weight": 0,
+          "side": "both",
+          "stage": "Stage 2",
+          "equipment": "bodyweight"
+        }
+      ],
+      "frequency": 1,
+      "breakInterval": 30,
+      "selectedDays": [
+        "M",
+        "T",
+        "W",
+        "TH"
+      ],
+      "therapistNotes": "it works ",
+      "createdAt": "2024-10-29T17:57:03.252Z"
+    }
+  ]
+}
