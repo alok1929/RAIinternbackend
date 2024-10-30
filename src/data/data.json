@@ -54,11 +54,7 @@
       "exercises": [],
       "frequency": 1,
       "breakInterval": 30,
-      "selectedDays": [
-        "M",
-        "W",
-        "F"
-      ],
+      "selectedDays": ["M", "W", "F"],
       "therapistNotes": "Test notes",
       "createdAt": "2024-10-29T09:38:57.122Z"
     },
@@ -68,11 +64,7 @@
       "exercises": [],
       "frequency": 1,
       "breakInterval": 30,
-      "selectedDays": [
-        "M",
-        "W",
-        "F"
-      ],
+      "selectedDays": ["M", "W", "F"],
       "therapistNotes": "Test notes",
       "createdAt": "2024-10-29T10:02:26.740Z"
     },
@@ -121,12 +113,7 @@
       ],
       "frequency": 1,
       "breakInterval": 30,
-      "selectedDays": [
-        "T",
-        "W",
-        "TH",
-        "F"
-      ],
+      "selectedDays": ["T", "W", "TH", "F"],
       "therapistNotes": "dsfsdf",
       "createdAt": "2024-10-29T10:42:19.791Z"
     },
@@ -146,11 +133,7 @@
       ],
       "frequency": 1,
       "breakInterval": 30,
-      "selectedDays": [
-        "TH",
-        "W",
-        "T"
-      ],
+      "selectedDays": ["TH", "W", "T"],
       "therapistNotes": "sdfsdfsdf",
       "createdAt": "2024-10-29T10:43:02.200Z"
     },
@@ -179,13 +162,7 @@
       ],
       "frequency": 1,
       "breakInterval": 30,
-      "selectedDays": [
-        "T",
-        "W",
-        "TH",
-        "F",
-        "Sa"
-      ],
+      "selectedDays": ["T", "W", "TH", "F", "Sa"],
       "therapistNotes": "it will work",
       "createdAt": "2024-10-29T10:48:12.352Z"
     },
@@ -250,13 +227,7 @@
       ],
       "frequency": 1,
       "breakInterval": 31,
-      "selectedDays": [
-        "M",
-        "T",
-        "W",
-        "TH",
-        "F"
-      ],
+      "selectedDays": ["M", "T", "W", "TH", "F"],
       "therapistNotes": "fuck yeah ",
       "createdAt": "2024-10-29T12:08:16.880Z"
     },
@@ -300,14 +271,273 @@
       ],
       "frequency": 1,
       "breakInterval": 30,
-      "selectedDays": [
-        "M",
-        "T",
-        "W",
-        "TH"
-      ],
+      "selectedDays": ["M", "T", "W", "TH"],
       "therapistNotes": "it works ",
       "createdAt": "2024-10-29T17:57:03.252Z"
+    },
+    {
+      "id": "combo-1730288240882",
+      "name": "knee rehab programme",
+      "exercises": [
+        {
+          "id": "exercise-1730288227116",
+          "name": "Shoulder Press",
+          "sets": 3,
+          "reps": 12,
+          "holdTime": 0,
+          "weight": 0,
+          "side": "both",
+          "stage": "Stage 1",
+          "equipment": "bodyweight"
+        },
+        {
+          "id": "exercise-1730288227609",
+          "name": "Shoulder Press",
+          "sets": 3,
+          "reps": 12,
+          "holdTime": 0,
+          "weight": 0,
+          "side": "both",
+          "stage": "Stage 1",
+          "equipment": "bodyweight"
+        },
+        {
+          "id": "exercise-1730288229602",
+          "name": "Shoulder Press",
+          "sets": 3,
+          "reps": 12,
+          "holdTime": 0,
+          "weight": 0,
+          "side": "both",
+          "stage": "Stage 1",
+          "equipment": "bodyweight"
+        }
+      ],
+      "frequency": 1,
+      "breakInterval": 30,
+      "selectedDays": ["T", "W", "TH", "F"],
+      "therapistNotes": "it works",
+      "createdAt": "2024-10-30T11:37:20.882Z"
+    },
+    {
+      "id": "combo-1730288245780",
+      "name": "knee rehab programme",
+      "exercises": [
+        {
+          "id": "exercise-1730288227116",
+          "name": "Shoulder Press",
+          "sets": 3,
+          "reps": 12,
+          "holdTime": 0,
+          "weight": 0,
+          "side": "both",
+          "stage": "Stage 1",
+          "equipment": "bodyweight"
+        },
+        {
+          "id": "exercise-1730288227609",
+          "name": "Shoulder Press",
+          "sets": 3,
+          "reps": 12,
+          "holdTime": 0,
+          "weight": 0,
+          "side": "both",
+          "stage": "Stage 1",
+          "equipment": "bodyweight"
+        },
+        {
+          "id": "exercise-1730288229602",
+          "name": "Shoulder Press",
+          "sets": 3,
+          "reps": 12,
+          "holdTime": 0,
+          "weight": 0,
+          "side": "both",
+          "stage": "Stage 1",
+          "equipment": "bodyweight"
+        }
+      ],
+      "frequency": 1,
+      "breakInterval": 30,
+      "selectedDays": ["T", "W", "TH", "F"],
+      "therapistNotes": "it works",
+      "createdAt": "2024-10-30T11:37:25.780Z"
+    },
+    {
+      "id": "combo-1730288650603",
+      "name": "kneeeee",
+      "exercises": [
+        {
+          "id": "exercise-1730288625558",
+          "name": "Shoulder Press",
+          "sets": 3,
+          "reps": 12,
+          "holdTime": 0,
+          "weight": 0,
+          "side": "right",
+          "stage": "Stage 1",
+          "equipment": "bodyweight"
+        },
+        {
+          "id": "exercise-1730288625558-1730288630324",
+          "name": "Shoulder Press",
+          "sets": 3,
+          "reps": 12,
+          "holdTime": 0,
+          "weight": 0,
+          "side": "left",
+          "stage": "Stage 1",
+          "equipment": "bodyweight"
+        }
+      ],
+      "frequency": 1,
+      "breakInterval": 30,
+      "selectedDays": ["F", "TH", "T"],
+      "therapistNotes": "sddg",
+      "createdAt": "2024-10-30T11:44:10.603Z"
+    },
+    {
+      "id": "combo-1730289340349",
+      "name": "kbnee",
+      "exercises": [
+        {
+          "id": "exercise-1730289326041",
+          "name": "Shoulder Press",
+          "sets": 3,
+          "reps": 12,
+          "holdTime": 0,
+          "weight": 0,
+          "side": "both",
+          "stage": "Stage 1",
+          "equipment": "bodyweight"
+        },
+        {
+          "id": "exercise-1730289326224",
+          "name": "Shoulder Press",
+          "sets": 3,
+          "reps": 12,
+          "holdTime": 0,
+          "weight": 0,
+          "side": "both",
+          "stage": "Stage 1",
+          "equipment": "bodyweight"
+        },
+        {
+          "id": "exercise-1730289326369",
+          "name": "Shoulder Press",
+          "sets": 3,
+          "reps": 12,
+          "holdTime": 0,
+          "weight": 0,
+          "side": "both",
+          "stage": "Stage 1",
+          "equipment": "bodyweight"
+        },
+        {
+          "id": "exercise-1730289326550",
+          "name": "Shoulder Press",
+          "sets": 3,
+          "reps": 12,
+          "holdTime": 0,
+          "weight": 0,
+          "side": "both",
+          "stage": "Stage 1",
+          "equipment": "bodyweight"
+        }
+      ],
+      "frequency": 1,
+      "breakInterval": 30,
+      "selectedDays": ["W", "M", "T", "TH", "F"],
+      "therapistNotes": "added alert",
+      "createdAt": "2024-10-30T11:55:40.349Z"
+    },
+    {
+      "id": "combo-1730289664239",
+      "name": "Knee Rehab Programme",
+      "exercises": [
+        {
+          "id": "exercise-1730289618554",
+          "name": "Knee Bends",
+          "sets": 3,
+          "reps": 10,
+          "holdTime": 5,
+          "weight": 0,
+          "side": "both",
+          "stage": "Stage 1",
+          "equipment": "bodyweight"
+        },
+        {
+          "id": "exercise-1730289618947",
+          "name": "Knee Bends",
+          "sets": 3,
+          "reps": 10,
+          "holdTime": 5,
+          "weight": 0,
+          "side": "both",
+          "stage": "Stage 1",
+          "equipment": "bodyweight"
+        },
+        {
+          "id": "exercise-1730289619149",
+          "name": "Knee Bends",
+          "sets": 3,
+          "reps": 10,
+          "holdTime": 5,
+          "weight": 0,
+          "side": "both",
+          "stage": "Stage 1",
+          "equipment": "bodyweight"
+        },
+        {
+          "id": "exercise-1730289619328",
+          "name": "Knee Bends",
+          "sets": 3,
+          "reps": 10,
+          "holdTime": 5,
+          "weight": 0,
+          "side": "left",
+          "stage": "Stage 1",
+          "equipment": "dumbbell"
+        },
+        {
+          "id": "exercise-1730289619328-1730289629697",
+          "name": "Knee Bends",
+          "sets": 3,
+          "reps": 10,
+          "holdTime": 10,
+          "weight": 0,
+          "side": "right",
+          "stage": "Stage 3",
+          "equipment": "machine"
+        },
+        {
+          "id": "exercise-1730289620209",
+          "name": "Forward Lunge",
+          "sets": 3,
+          "reps": 10,
+          "holdTime": 0,
+          "weight": 0,
+          "side": "right",
+          "stage": "Stage 1",
+          "equipment": "bodyweight"
+        },
+        {
+          "id": "exercise-1730289646354",
+          "name": "Forward Lunge",
+          "sets": 3,
+          "reps": 10,
+          "holdTime": 0,
+          "weight": 0,
+          "side": "both",
+          "stage": "Stage 1",
+          "equipment": "bodyweight"
+        }
+      ],
+      "frequency": 14,
+      "breakInterval": 34,
+      "selectedDays": ["M", "W", "TH", "F"],
+      "therapistNotes": "added functionality",
+      "createdAt": "2024-10-30T12:01:04.239Z"
     }
   ]
 }
